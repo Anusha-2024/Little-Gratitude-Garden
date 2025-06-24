@@ -47,19 +47,19 @@ npm run dev
 Visit http://localhost:3000 to see your garden come to life.
 
 ### 🌷 How to Use
-- 🌼 Type what you're grateful for in the input field
+🌼 Type what you're grateful for in the input field
 
-- 🎭 Pick an emotion to match your feeling
+🎭 Pick an emotion to match your feeling
 
-- ✨ Click "Plant it!" to bloom your flower in the garden
+✨ Click "Plant it!" to bloom your flower in the garden
 
-- 📜 Browse your timeline and reflect on planted memories
+📜 Browse your timeline and reflect on planted memories
 
-- 💌 Write “future letters” to open on special days
+💌 Write “future letters” to open on special days
 
-- 🎨 Customize themes and 🎶 mix ambient sound for relaxation
+🎨 Customize themes and 🎶 mix ambient sound for relaxation
 
-- 🖼 Download your garden and share the joy!
+🖼 Download your garden and share the joy!
 
 ## 🤝 Contributing
 Got ideas to make the garden even more magical?
@@ -68,6 +68,12 @@ Pull requests and feature suggestions are warmly welcome!
 
 ## 📄 License
 This project is licensed under the MIT License.
+
+## 📩 Contact
+
+Created by **Anusha**  
+
+📧 Gmail: **krianusha09@gmail.com**  
 
 ## 🌟 Let’s Bloom Together
 Whether it’s one flower or a whole field, every moment of gratitude matters.
