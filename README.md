@@ -23,11 +23,11 @@
 
 ## 🛠 Technologies Used
 
-- ⚛️ React + TypeScript  
-- 🎨 Tailwind CSS  
-- 📸 [`html2canvas`](https://www.npmjs.com/package/html2canvas) (for capturing the garden)  
-- 🧩 [`lucide-react`](https://www.npmjs.com/package/lucide-react) icons  
-- 🗂 `localStorage` for data persistence
+-  React + TypeScript  
+- Tailwind CSS  
+- [`html2canvas`](https://www.npmjs.com/package/html2canvas) (for capturing the garden)  
+- [`lucide-react`](https://www.npmjs.com/package/lucide-react) icons  
+- `localStorage` for data persistence
 
 ---
 
